@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c854551.chunk.css",
-    "main.js": "/static/js/main.db344737.chunk.js",
-    "main.js.map": "/static/js/main.db344737.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6c893ce9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6c893ce9.js.map",
-    "static/js/2.61034361.chunk.js": "/static/js/2.61034361.chunk.js",
-    "static/js/2.61034361.chunk.js.map": "/static/js/2.61034361.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.144a57819ff708aa8d720c35fa6d3470.js": "/precache-manifest.144a57819ff708aa8d720c35fa6d3470.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0c854551.chunk.css.map": "/static/css/main.0c854551.chunk.css.map",
-    "static/js/2.61034361.chunk.js.LICENSE.txt": "/static/js/2.61034361.chunk.js.LICENSE.txt"
+    "main.css": "/react-news-application-using-voice-controller/static/css/main.0c854551.chunk.css",
+    "main.js": "/react-news-application-using-voice-controller/static/js/main.db344737.chunk.js",
+    "main.js.map": "/react-news-application-using-voice-controller/static/js/main.db344737.chunk.js.map",
+    "runtime-main.js": "/react-news-application-using-voice-controller/static/js/runtime-main.d675c13c.js",
+    "runtime-main.js.map": "/react-news-application-using-voice-controller/static/js/runtime-main.d675c13c.js.map",
+    "static/js/2.61034361.chunk.js": "/react-news-application-using-voice-controller/static/js/2.61034361.chunk.js",
+    "static/js/2.61034361.chunk.js.map": "/react-news-application-using-voice-controller/static/js/2.61034361.chunk.js.map",
+    "index.html": "/react-news-application-using-voice-controller/index.html",
+    "precache-manifest.23b69fffb265246c63686534417fcee0.js": "/react-news-application-using-voice-controller/precache-manifest.23b69fffb265246c63686534417fcee0.js",
+    "service-worker.js": "/react-news-application-using-voice-controller/service-worker.js",
+    "static/css/main.0c854551.chunk.css.map": "/react-news-application-using-voice-controller/static/css/main.0c854551.chunk.css.map",
+    "static/js/2.61034361.chunk.js.LICENSE.txt": "/react-news-application-using-voice-controller/static/js/2.61034361.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c893ce9.js",
+    "static/js/runtime-main.d675c13c.js",
     "static/js/2.61034361.chunk.js",
     "static/css/main.0c854551.chunk.css",
     "static/js/main.db344737.chunk.js"
